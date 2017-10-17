@@ -1,3 +1,4 @@
+sudo rm /etc/apt/sources.list.d/mongodb-3.2.list
 language: java
 jdk:
   - oraclejdk8
