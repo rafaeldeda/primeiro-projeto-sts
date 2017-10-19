@@ -1,3 +1,5 @@
+package com.meudominio.api.model;
+
 
 
 import java.io.Serializable;
